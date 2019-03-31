@@ -1,7 +1,10 @@
-### Made by [almokhtar bekkour]
+# NOTE : IF ANY ONE WANNA ADD SOMETHING TO MAKE THIS REPO BETTER SEND ME A PULL REQUESTS , THANK YOU .
 
-Complete CMS for blog built with laravel and uikit ,it open source so if any one have any changes just send me the request.
-Happy coding
+
+
+
+Just a Complete CMS for blog built with laravel and uikit ,it open source so if any one have any changes just send me a pull  request.
+
 
 ![alt tag](https://github.com/almokhtarbr/Complete_blog_CMS_laravel/blob/master2/A-Screenshot/dashboard%20index.png?raw=true)
 ![alt tag](https://raw.githubusercontent.com/almokhtarbr/Complete_blog_CMS_laravel/master2/A-Screenshot/account.png)
@@ -9,6 +12,7 @@ Happy coding
 ![alt tag](https://github.com/almokhtarbr/Complete_blog_CMS_laravel/blob/master2/A-Screenshot/categories.png?raw=true)
 
 
+### Made by [MOKTAR]
 
 ## Support on Beerpay
 Hey dude! Help me out for a couple of :beers:!
